@@ -1,7 +1,7 @@
 ---
 title: 关于我
 layout: about
-image：assets/images/banner_about me.jpg
+image：.../images/banner_about me.jpg
 ---
 ## 你认识我吗
 - 我叫彭文宇
