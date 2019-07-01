@@ -1,8 +1,10 @@
 ---
-title: 关于我
+title: 自我介绍
 layout: about
-image：assets/images/banner_about me.gif
+image: assets/images/banner_about me.jpg
 ---
+
+
 ## 你认识我吗
 - 我叫彭文宇
 - 就读中大南方
