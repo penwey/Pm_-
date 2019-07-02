@@ -1,8 +1,8 @@
 ---
-title: SVG制作
-layout: category
-permalink: /categories/SVG制作/
-taxonomy: SVG制作
+title: svg制作
+layout: tags
+permalink: /tag/svg制作/
+taxonomy: svg制作
 image: assets/images/banner_svg.jpg
 ---
 
