@@ -20,7 +20,7 @@ description: 彭文宇的jekyll网站，用于web期末项目
 baseurl: "/jekyll-theme-basically-basic"# the optional subpath of your site, e.g. "/blog"
 url: "https://penwey.gitee.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: “彭文宇”
+  name: 彭文宇
   twitter:
   picture:
 twitter_username:
@@ -47,7 +47,7 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 5
 paginate_path: /page:num/
 
 # Exclude from processing.
