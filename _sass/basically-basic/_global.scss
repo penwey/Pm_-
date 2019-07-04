@@ -30,6 +30,8 @@
     align-items: center;
     min-height: $site-image-height;
     color: $text-color;
+    text-shadow: 5px 5px 0 #666, 7px 7px 0 #eee;
+    font-size: calc(6opx + -13 * ((100vw - 320px) / 960));
     text-decoration: none;
   }
 }
