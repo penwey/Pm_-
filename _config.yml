@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
 title: 彭文宇的jekyll网站
-email: 1071852907@qq.com
+email: 
 description: 彭文宇的jekyll网站，用于web期末项目
-baseurl: "/penwey.cn"# the optional subpath of your site, e.g. "/blog"
+baseurl: "/jekyll-theme-basically-basic"# the optional subpath of your site, e.g. "/blog"
 url: "https://penwey.gitee.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: 彭文宇
